@@ -5,10 +5,10 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on student and an intern at The Sparks Foundation
-- 🌱 I’m currently learning Web
+- 🔭 I’m currently working on student and an intern at The Sparks Foundation.
+- 🌱 I’m currently learning Web.
 - 👯 I’m looking to collaborate on Accenture,Amazon.
-- 💬 Ask me about ...Anything u wish
+- 💬 Ask me about ...Anything u wish.
 - 📫 How to reach me: https://www.linkedin.com/in/hema-r-2b88371bb/.
-- 😄 Pronouns: Her/She
+- 😄 Pronouns: Her/She.
 
